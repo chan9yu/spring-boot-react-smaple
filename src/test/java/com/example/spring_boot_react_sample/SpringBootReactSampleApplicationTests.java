@@ -1,10 +1,10 @@
-package com.example.spring_boot_react_smaple;
+package com.example.spring_boot_react_sample;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringBootReactSmapleApplicationTests {
+class SpringBootReactSampleApplicationTests {
 
 	@Test
 	void contextLoads() {
